@@ -23,7 +23,7 @@ weight = 4
 
 [[main]]
 name = "Team"
-url = "#team-row"
+url = "team/"
 weight = 5
 
 # [[main]]
